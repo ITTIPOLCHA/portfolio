@@ -1,0 +1,53 @@
+.contact-form {
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-start {
+  margin-top: 10vh;
+  min-height: 83vh;
+}
+
+.form-label {
+  font-weight: bold;
+  color: green;
+  font-size: large;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.submit-button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.error-box {
+  position: relative;
+}
+
+.error-message {
+  position: absolute;
+  top: -20px; /* ย้ายข้อความข้อผิดพลาดขึ้น 20px */
+  left: 37%; /* ย้ายข้อความไปกลาง */
+  color: red;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 1;
+  transition: top 0.5s;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.error-box.show .error-message {
+  top: -50px; /* ค่า top เป็นตัวแปรที่คุณสามารถปรับเปลี่ยนได้ตามความต้องการ */
+}
