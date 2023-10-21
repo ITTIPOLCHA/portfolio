@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.45a7ee8f.css",
+    "main.js": "/portfolio/static/js/main.7f30f61f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/back_end_rust.png": "/portfolio/static/media/back_end_rust.eb2f89f081f72a33cc98.png",
+    "static/media/home.jpg": "/portfolio/static/media/home.193996b996fe326ae938.jpg",
+    "static/media/Resume_Ittipol.pdf": "/portfolio/static/media/Resume_Ittipol.be07b6d5866db05e4ccd.pdf",
+    "static/media/Transcript_Ittipol.pdf": "/portfolio/static/media/Transcript_Ittipol.1e9234dc36381dd007b8.pdf",
+    "index.html": "/portfolio/index.html",
+    "static/media/pre.svg": "/portfolio/static/media/pre.a3b9b9ab6f86337debc1.svg",
+    "main.45a7ee8f.css.map": "/portfolio/static/css/main.45a7ee8f.css.map",
+    "main.7f30f61f.js.map": "/portfolio/static/js/main.7f30f61f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a7ee8f.css",
+    "static/js/main.7f30f61f.js"
+  ]
+}
