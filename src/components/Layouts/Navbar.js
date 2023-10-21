@@ -37,7 +37,7 @@ export default function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand href="/portfolio" className="d-flex">
           IC
         </Navbar.Brand>
         <Navbar.Toggle
