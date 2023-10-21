@@ -1,1 +1,1 @@
-link web : http://localhost:3000/portfolio/transcript
+link web : https://ittipolcha.github.io/portfolio/
